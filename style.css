@@ -1,0 +1,29 @@
+
+/* a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+} */
+main{
+    height: auto;
+}
+.cs-img{
+    background-color:#d9ebeb;
+    height: 300px;
+    border-radius: 5%;
+}
+.card-height{
+    height: 100%;
+    border-radius: 5%;
+}
+.br{
+    border-radius: 5%;
+    border: none;
+}
+.fs-img{
+    height: 300px;
+    border-radius: 5%;
+}
+#navbarNavAltMarkup{
+    padding-left: 47%;
+}
